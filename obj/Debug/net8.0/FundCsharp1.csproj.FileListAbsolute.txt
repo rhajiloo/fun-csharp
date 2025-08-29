@@ -1,0 +1,14 @@
+D:\pr\git-test\FundCsharp1\bin\Debug\net8.0\FundCsharp1.exe
+D:\pr\git-test\FundCsharp1\bin\Debug\net8.0\FundCsharp1.deps.json
+D:\pr\git-test\FundCsharp1\bin\Debug\net8.0\FundCsharp1.runtimeconfig.json
+D:\pr\git-test\FundCsharp1\bin\Debug\net8.0\FundCsharp1.dll
+D:\pr\git-test\FundCsharp1\bin\Debug\net8.0\FundCsharp1.pdb
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\FundCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\FundCsharp1.AssemblyInfoInputs.cache
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\FundCsharp1.AssemblyInfo.cs
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\FundCsharp1.csproj.CoreCompileInputs.cache
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\FundCsharp1.dll
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\refint\FundCsharp1.dll
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\FundCsharp1.pdb
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\FundCsharp1.genruntimeconfig.cache
+D:\pr\git-test\FundCsharp1\obj\Debug\net8.0\ref\FundCsharp1.dll
